@@ -1,3 +1,4 @@
+<link rel="icon" type="image/x-icon" href="favicon.png">
 <p align="center" width="100%">
     <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/src/Thumbnail.png"/>
 	<br>
