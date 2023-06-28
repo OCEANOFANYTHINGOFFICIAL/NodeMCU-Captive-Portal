@@ -1,5 +1,6 @@
 <p align="center" width="100%">
     <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/src/Thumbnail.png"/>
+	<br>
     <div align="center">
       <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=flat">
   <img alt="GitHub Repo Version" src="https://img.shields.io/badge/Version-1.0.0.0-brightgreen?style=flat">
