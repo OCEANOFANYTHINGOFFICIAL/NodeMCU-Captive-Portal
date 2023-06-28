@@ -1,4 +1,4 @@
-# ESP8266 WiFi Captive Portal
+# NodeMCU Captive Portal
 
 ## Disclaimer
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
