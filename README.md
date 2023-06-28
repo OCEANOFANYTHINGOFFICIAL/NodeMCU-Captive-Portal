@@ -34,18 +34,22 @@ The built-in LED will blink 5 times when a password is posted.
 
 ## ``192.168.4.1/index``
 This is the main page. Here the user will write his password and send it.
+
 <img width="200px" src="src/1_Index_2.png" title="index">
 
 ## ``192.168.4.1/post``
 This is the post page. The user will be redirected here after posting the password.
+
 <img width="200px" src="src/2_Post.png" title="post">
 
 ## ``192.168.4.1/pass``
 This is where the attacker can retrieve all the passwords that has been posted.
+
 <img width="200px" src="src/3_Pass.png" title="pass">
 
 ## ``192.168.4.1/ssid``
 Here the attacker can change the SSID name of the Access Point on the go.
+
 <img width="200px" src="src/4_ssid.png" title="ssid">
 
 
