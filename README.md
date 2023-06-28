@@ -1,4 +1,17 @@
-# NodeMCU Captive Portal
+<p align="center" width="100%">
+    <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/src/Thumbnail.png"/>
+    <div align="center">
+      <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=flat">
+  <img alt="GitHub Repo Version" src="https://img.shields.io/badge/Version-1.0.0.0-brightgreen?style=flat">
+  <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+  <a href="https://www.linux.org/" title="Go to Linux homepage"><img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white" alt="OS - Linux"></a>
+  <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
+  <a href="https://www.microsoft.com/" title="Go to Microsoft homepage"><img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS - Windows"></a>
+	<a href="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal" title="Go to GitHub Pages homepage"><img src="https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white" alt="Hosted with GH Pages"></a>
+	<img  src="https://img.shields.io/badge/maintained-yes-blue"  alt="maintained - yes">
+	<div><a href="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a></div>
+   </div>
+</p>
 
 ## Disclaimer
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
