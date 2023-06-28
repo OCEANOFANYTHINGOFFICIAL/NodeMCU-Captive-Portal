@@ -34,21 +34,21 @@ The built-in LED will blink 5 times when a password is posted.
 
 <table>
   <tr>
-    <th>192.168.4.1/index</th>
-    <th>192.168.4.1/post</th> 
-    <th>192.168.4.1/pass</th>
-    <th>192.168.4.1/ssid</th>
+    <th>192.168.4.1/index</th><br>
+    <th>192.168.4.1/post</th><br>
+    <th>192.168.4.1/pass</th><br>
+    <th>192.168.4.1/ssid</th><br>
   </tr>
-  <tr>
-    <td>This is the main page. Here the user will write his password and send it.</td>
-    <td>This is the post page. The user will be redirected here after posting the password.</td>
-    <td>This is where the attacker can retrieve all the passwords that has been posted.</td>
-    <td>Here the attacker can change the SSID name of the Access Point on the go.</td>
-  <tr>
-    <td><img width="200px" src="src/1_Index_2.png" title="index"></td>
-    <td><img width="200px" src="src/2_Post.png" title="post"></td>
-    <td><img width="200px" src="src/3_Pass.png" title="pass"></td>
-<td><img width="200px" src="src/4_ssid.png" title="ssid"></td>
+  <tr><br>
+    <td>This is the main page. Here the user will write his password and send it.</td><br>
+    <td>This is the post page. The user will be redirected here after posting the password.</td><br>
+    <td>This is where the attacker can retrieve all the passwords that has been posted.</td><br>
+    <td>Here the attacker can change the SSID name of the Access Point on the go.</td><br>
+  <tr><br>
+    <td><img width="200px" src="src/1_Index_2.png" title="index"></td><br>
+    <td><img width="200px" src="src/2_Post.png" title="post"></td><br>
+    <td><img width="200px" src="src/3_Pass.png" title="pass"></td><br>
+    <td><img width="200px" src="src/4_ssid.png" title="ssid"></td><br>
   </tr>
 </table>
 
