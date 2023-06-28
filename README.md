@@ -4,7 +4,7 @@
     <div align="center">
       <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=flat">
   <img alt="GitHub Repo Version" src="https://img.shields.io/badge/Version-1.0.0.0-brightgreen?style=flat">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=plastic&logoColor=green&color=green">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=social&logoColor=green&color=green">
   <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   <a href="https://www.linux.org/" title="Go to Linux homepage"><img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white" alt="OS - Linux"></a>
   <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
