@@ -68,7 +68,7 @@ The built-in LED will blink 5 times when a password is posted.
 
 3. Go to "Tools -> Board" and select your board
 
-4. Download and open the sketch "<a href="https://github.com/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal/blob/main/NodeMCU-Captive-Portal.ino"><b>NodeMCU-Captive-Portal.ino</b></a>"
+4. Download and open the sketch "<a href="https://github.com/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal/blob/main/NodeMCU-Captive-Portal/NodeMCU-Captive-Portal.ino"><b>NodeMCU-Captive-Portal.ino</b></a>"
 
 5. You can optionally change some parameters like the SSID name and texts of the page like title, subtitle, text body etc.
 
