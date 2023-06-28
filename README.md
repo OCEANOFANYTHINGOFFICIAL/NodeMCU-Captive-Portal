@@ -48,7 +48,7 @@ The built-in LED will blink 5 times when a password is posted.
 
 3. Open the ESP8266 Flasher and select the Node MCU port
 
-<img width="80%" src="src/1_port_selection.PNG">
+<img width="80%" src="src/1_port_selection.png">
 
 4. Then, go to the config tab and select the .bin file you've just downloaded.
 
