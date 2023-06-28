@@ -44,7 +44,7 @@ The built-in LED will blink 5 times when a password is posted.
 
 1. Download <a href="https://github.com/nodemcu/nodemcu-flasher"><b>ESP8266 Flasher</b></a>.
 
-2. Download the <b><a href="https://github.com/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal/blob/main/NodeMCU-Captive-Portal/build/esp8266.esp8266.generic/NodeMCU-Captive-Portal.ino.bin">NodeMCU-Captive-Portal.ino.bin</b></a> file.
+2. Download the [https://github.com/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal/blob/main/NodeMCU-Captive-Portal/build/esp8266.esp8266.generic/NodeMCU-Captive-Portal.ino.bin](https://github.com/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal/raw/main/NodeMCU-Captive-Portal/build/esp8266.esp8266.generic/NodeMCU-Captive-Portal.ino.bin) file.
 
 3. Open the ESP8266 Flasher and select the Node MCU port
 
