@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="favicon.png">
 <p align="center" width="100%">
-    <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/src/Thumbnail.png"/>
+    <img width="100%" align="center" src="https://oceanofanythingofficial.github.io/NodeMCU-Captive-Portal/src/Thumbnail.png"/>
 	<br>
     <div align="center">
       <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/OCEANOFANYTHINGOFFICIAL/NodeMCU-Captive-Portal?style=flat">
@@ -22,7 +22,7 @@ This project is for testing and educational purposes. Use it only against your o
 ## About this project
 WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing.
 
-This project can steal any Wi-Fi passwords in simple way. It uses a fake update page to get the password from the user. You just need to edit the Wi-Fi SSID name and the password will be posted to the ESP8266.
+This project can steal any Wi-Fi passwords in simple way. It uses a fake `update page` to get the password from the user. You just need to edit the Wi-Fi SSID name and the password will be posted to the ESP8266.
 
 The built-in LED will blink 5 times when a password is posted.
 
